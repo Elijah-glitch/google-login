@@ -19,8 +19,9 @@
  */
 require_once __DIR__.'/gplus-lib/vendor/autoload.php';
 
-const CLIENT_ID = 'ADD_YOUR_CLIENT_ID';
-const CLIENT_SECRET = 'ADD_YOUR_CLIENT_SECRET';
+const CLIENT_ID = '1087066713352-qlvr6cfs2lhhjuublkcbc4tk26dpkt8l.apps.googleusercontent.com
+';
+const CLIENT_SECRET = 'tSgsRPvCdhA-1vDw6cObHo8w';
 const REDIRECT_URI = 'ADD_YOUR_REDIRECT_URI';
 
 session_start();
